@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi-bhavs<h1 align="center">Hi 👋, I'm Abhi Bhavsar</h1>
+- 👋 Hi, I’m @abhi-bhavsar<h1 align="center">Hi 👋, I'm Abhi Bhavsar</h1>
 
 <h3 align="center">
 Machine Learning Engineer | Generative AI Developer | Data Science Student
